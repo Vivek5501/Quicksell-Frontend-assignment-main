@@ -10,9 +10,6 @@ Develop a React-based Kanban-board app that interfaces with the provided API by 
 <code><img height="40" src="https://raw.githubusercontent.com/AnmolVerma404/AnmolVerma404/main/gif/react.webp" alt="react"></code>
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
 
-
-## Sneak Peek of  Kanban-Board 🙈 :
-
 <table>
   <tr>
     <td><img src="https://github.com/vishal1patidar/Quicksell-Frontend-assignment/assets/79128256/6119f174-c748-40c7-98a9-0b80c5573151" alt="" /></td>
@@ -24,7 +21,5 @@ Develop a React-based Kanban-board app that interfaces with the provided API by 
   </tr>
 </table>
 
-© 2023 Vishal Patidar
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
