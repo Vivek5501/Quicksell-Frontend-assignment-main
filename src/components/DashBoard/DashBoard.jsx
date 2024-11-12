@@ -16,11 +16,10 @@ import Card from "../Card/Card";
 const DashBoard = () => {
   const isStatus = localStorage.getItem("group") === "status";
   const isPriority = localStorage.getItem("group") === "priority";
-  console.log("stat", isStatus, "prio", isPriority);
   const { selectedData, user } = useSelector(
     (state) => state.SelectDataReducer
   );
-  console.log("rere", user);
+  
   return (
     selectedData && (
       <div

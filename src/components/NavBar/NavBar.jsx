@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { TiThList } from "react-icons/ti";
 import "./NavBar.css";
 import { useSelector, useDispatch } from "react-redux";
-import { selectData } from "../../Actions/DataAction";
+import { selectData } from "../../Actions/Action";
 localStorage.setItem("group", "status");
 localStorage.setItem("order", "priority");
 const getOrder = () => {
